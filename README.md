@@ -5,7 +5,7 @@
   
 * Terminal based-app focussed on database design for access level specification of different users.
   
-* Utilised real-time cloud NoSQL database to efficiently implement access level specification
+* Utilised real-time cloud NoSQL database to efficiently implement access level specification 
 
 ## Steps to Run
 
